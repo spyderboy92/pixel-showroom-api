@@ -1,0 +1,2 @@
+image_max_size: 10 # 10MB
+log-level: DEBUG
