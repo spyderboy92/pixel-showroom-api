@@ -31,3 +31,6 @@ load_env_config()
 
 # Create and configure the API
 api = create_api(app)
+
+if __name__ == "__main__":
+    app.run()
